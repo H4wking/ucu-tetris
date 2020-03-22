@@ -52,7 +52,6 @@ function moveDown(obj) {
   playground = createPlayground();
 
   // 4. re-renderPositions
-  renderPositions()
   // 5. re-renderPlayground
   renderPlayground()
 }
